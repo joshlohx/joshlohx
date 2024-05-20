@@ -1,5 +1,5 @@
 ## 🙋‍♂️ Introducing Myself 
-!
+
 Hello, I'm Josh. Data enthusiast with expertise in data analysis and reporting, query optimization,  and data modelling. 
 
 - Querying data using SQL.
