@@ -1,16 +1,21 @@
-### 🙋‍♂️ Introducing Myself 
+## 🙋‍♂️ Introducing Myself 
+!
+Hello, I'm Josh. Data enthusiast with expertise in data analysis and reporting, query optimization,  and data modelling. 
 
-<!--
-**joshlohx/joshlohx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Querying data using SQL.
+- Generate reports and performing data analysis using SQL.
+- Developing dashboards on Tableau and PowerBI.
+- Data wrangling and modelling using R and Python.
 
-Here are some ideas to get you started:
+### 📚 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+
+### 🛠️ Tools
+
+- Language: SQL, R, Python
+- Visualization: Tableau, PowerBI
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/josh-loh-458049219/)
