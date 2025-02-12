@@ -5,7 +5,7 @@ Hello, I'm Josh. Data enthusiast with expertise in data analysis and reporting, 
 - Querying data using SQL.
 - Performing data analysis using SQL.
 - Developing dashboards on PowerBI.
-- Data wrangling and modelling Python and Excel.
+- Data wrangling and modelling using Python and Excel.
 
 ### 📚 Projects
 
