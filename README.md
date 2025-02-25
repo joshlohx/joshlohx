@@ -13,8 +13,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 ### 🛠️ Tools
 
-- Language: SQL, Python
-- Visualization: PowerBI, Excel
+- Language: SQL, Python, R
+- Visualization: PowerBI, Tableau, Excel
 
 ### 👋🏻 Connect with Me
 
