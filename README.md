@@ -9,7 +9,7 @@ Hello, I'm Josh. Data enthusiast with expertise in data migration and ERP implem
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my code-based proejcts.
 
 ### 🛠️ Tools
 
