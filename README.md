@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Introducing Myself 
 
-Hello, I'm Josh. Data enthusiast with expertise in data migration and ERP implementations and an aspiring data analyst. 
+Hello, I'm Josh. Data enthusiast with expertise in data migration and ERP implementations. 
 
 - Querying data using SQL.
 - Performing data wrangling and modelling using SQL, Python and R.
